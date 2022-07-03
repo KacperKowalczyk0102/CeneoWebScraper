@@ -3,7 +3,7 @@ from distutils import extension
 from matplotlib.style import library
 from app import app
 from flask import render_template, redirect, url_for, request
-from app.models.product import 
+from app.models.product import Product
 import markdown
 
 @app.route('/')
