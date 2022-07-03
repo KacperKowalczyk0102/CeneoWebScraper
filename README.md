@@ -16,3 +16,19 @@
     2) narysowanie wykresów
         1) udział poszczególncyh rekomendacji w ogólnej liczbie opinii
         2) histogram częstości wystąpień poszczególnych ocen (liczba gwiazdek)
+7)Aktualizaja pliku README.md
+8)Przeniesienie zawartości pliku README.md na stronę
+
+
+-------Użyte Biblioteki---------
+
+
+json - Służy do wymiany danych, odczytu oraz zapisu ich w przejrzysty sposób.
+pandas - Służy do analizy dnych. Można je modyfikowa, wczytywać.
+bs4 - Służy do iteracji, wyszukiwania i modyfikacji kodu HTML i XML.
+flask - Służy do tworzenia aplikacji webowych.
+Markdown - Służy do konwersji formatu R.Markdown na inne formaty do HTML i XHTML.
+matplotlib - Służy do tworzenia różnych wykresów, bazujących na podanych danych.
+flask - Służy do debugowania oraz jest mikro-frameworkiem da Pythona.
+requests - Sluży do obsługi HTTP, wysyła żądania i odbiera odpowiedzi.
+numpy - Służy do analzy danych, operacji na macierzach.
